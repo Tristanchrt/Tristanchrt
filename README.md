@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tristan Chretien</h1>
-<h3 align="center">Software engineer passionate about IA, computer vision and new technologies</h3>
+<h3 align="center">Software engineer & DevOps | Python, JS, Web Development, ML</h3>
 
 <br>
 
 - 📫 How to reach me **chretien.tristan1@gmail.com**
 
 <h2> About Me </h2>
-
-- 🏫 I’m currently studying at CPE Lyon in Cyber security 
   
-- 🧠 I’m currently learning Kubernetes and Rust
+- 🧠 I’m currently learning Kubernetes and Service workers
   
 - 💬 Ask me about Vuejs, Angular, Python, Devops
 
