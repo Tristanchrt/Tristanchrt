@@ -3,8 +3,6 @@
 
 <br>
 
-- 📫 How to reach me **chretien.tristan1@gmail.com**
-
 <h2> About Me </h2>
   
 - 🧠 I’m currently learning Kubernetes and Service workers
