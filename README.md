@@ -5,9 +5,9 @@
 
 <h2> About Me </h2>
   
-- 🧠 I’m currently learning Kubernetes and Service workers
+- 🧠 I’m currently learning Kubernetes
   
-- 💬 Ask me about Vuejs, Angular, Python, Devops
+- 💬 Ask me about Vuejs, Python, Devops
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
