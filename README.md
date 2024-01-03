@@ -5,7 +5,7 @@
 
 <h2> About Me </h2>
   
-- 🧠 I’m currently learning Kubernetes
+- 🧠 I’m currently learning Rust
   
 - 💬 Ask me about Vuejs, Python, Devops
 
