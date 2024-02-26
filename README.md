@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tristan Chretien</h1>
-<h3 align="center">Software engineer & DevOps | Python, JS, Web Development, ML</h3>
+<h3 align="center">Software engineer & DevOps | Python, JS, Web Development, SaaS</h3>
 
 <br>
 
 <h2> About Me </h2>
   
-- 🧠 I’m currently learning Rust
+- 🧠 I’m currently learning Go 
   
-- 💬 Ask me about Vuejs, Python, Devops
+- 💬 Ask me about Vuejs, Python, DevOps
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
