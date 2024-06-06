@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan Chretien</h1>
-<h3 align="center">Software engineer & DevOps | Python, JS, Web Development, SaaS</h3>
+<h3 align="center">Software engineer & DevOps | SaaS, Python, Java Spring </h3>
 
 <br>
 
