@@ -5,8 +5,6 @@
 
 <h2> About Me </h2>
   
-- 🧠 I’m currently learning Golang and K8s
-  
 - 💬 Ask me about Java Spring, Python, DevOps
 
 <h3 align="left">Connect with me:</h3>
